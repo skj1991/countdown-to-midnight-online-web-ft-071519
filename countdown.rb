@@ -8,7 +8,7 @@ end
 puts "HAPPY NEW YEAR!"
 return "HAPPY NEW YEAR!"
 
-def countdown_with_sleep
+def countdown_with_sleep(counter)
   while counter > 5
     counter -= 1
     sleep(5)

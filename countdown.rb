@@ -5,7 +5,7 @@ def countdown(counter)
     counter -= 1
   end
 end
-return "HAPPY NEW YEAR!"
+
 
 
 def countdown_with_sleep(counter)

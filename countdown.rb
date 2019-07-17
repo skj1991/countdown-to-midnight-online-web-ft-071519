@@ -7,5 +7,4 @@ def countdown(x)
 end
 
 
-def countdown_with_sleep
-  counter = 0
+

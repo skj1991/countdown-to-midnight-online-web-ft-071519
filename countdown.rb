@@ -7,3 +7,10 @@ counter = 10
 end
 puts "HAPPY NEW YEAR!"
 return "HAPPY NEW YEAR!"
+
+def countdown_with_sleep
+  while counter > 5
+    counter -= 1
+    sleep(5)
+  end
+end
